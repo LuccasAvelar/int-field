@@ -2,7 +2,7 @@
   "name": "int-field",
   "version": "1.0.0",
   "description": "Implementação de um teste junto da primeira aula do \"deschamps\"!",
-  "main": "index.js",
+  "main": "Index.js",
   "scripts": {
     "dev": "next dev"
   },
