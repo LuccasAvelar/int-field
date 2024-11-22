@@ -1,4 +1,4 @@
 // pages/index.js
 export default function Home() {
-    return <h1>Bem-vindo ao Next.js!</h1>;
+    return <h1>Ola, como vocês estão? podemos melhorar isso né.</h1>;
 }
